@@ -1,7 +1,10 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+pragma solidity >=0.6.12 <0.9.0;
 
-contract RiyaBattu {
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.6.12 <0.9.0;
+
+contract MySmartContract {
 
     // Public variables to store details about the token
     string public tokenName = "RiyaBattu";
